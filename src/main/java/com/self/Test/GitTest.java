@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello master冲突");
         System.out.println("hello hot-fix第二次");
         System.out.println("hello hot-fix第三次");
+        System.out.println("pull test");
     }
 }
